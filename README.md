@@ -6,6 +6,8 @@ MPP candidate at LSE | Policy professional & data practitioner
 I work at the intersection of policy research and data — translating evidence into 
 decisions, and building the tools to visualise it clearly.
 
+---
+
 ### What I'm working on
 
 - Interactive data visualisations using Python, Vega-Lite, and JavaScript
