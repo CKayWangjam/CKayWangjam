@@ -3,7 +3,7 @@
 MPP candidate at LSE | Policy professional & data practitioner  
 6 years in federal, state and local governments in education policy, institutional capacity building, skills development, and programme delivery across India.
 
-I work at the intersection of policy research and data — translating evidence into 
+I work at the intersection of policy research and data, translating evidence into 
 decisions, and building the tools to visualise it clearly.
 
 ---
@@ -12,7 +12,7 @@ decisions, and building the tools to visualise it clearly.
 
 Previously a **Policy Fellow at India's Ministry of Skill Development and 
 Entrepreneurship** and **Programme Coordinator at the Capacity Building Commission, 
-Government of India**, where I led programmes and operations across federal minitries, state governments and districts, trained 5,000 civil servants,  authored policy memos, and built monitoring dashboards that improved 
+Government of India**, where I led programmes and operations across federal ministries, state governments and districts, trained 5,000 civil servants,  authored policy memos, and built monitoring dashboards that improved 
 data quality for field teams.
 
 I co-founded **MitSna Foundation**, a community learning organisation that has 
